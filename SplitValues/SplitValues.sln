@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitValues", "SplitValues.csproj", "{AC0FE737-CA44-45FC-B1CB-25AF80CFDA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "..\Business\Entity.csproj", "{5C13A004-0166-4608-86C4-DBA50D5A77C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0FE737-CA44-45FC-B1CB-25AF80CFDA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0FE737-CA44-45FC-B1CB-25AF80CFDA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0FE737-CA44-45FC-B1CB-25AF80CFDA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0FE737-CA44-45FC-B1CB-25AF80CFDA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C13A004-0166-4608-86C4-DBA50D5A77C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C13A004-0166-4608-86C4-DBA50D5A77C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C13A004-0166-4608-86C4-DBA50D5A77C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C13A004-0166-4608-86C4-DBA50D5A77C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F59139-643D-45C1-8A5A-DE7B01700122}
+	EndGlobalSection
+EndGlobal
